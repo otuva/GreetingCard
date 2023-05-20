@@ -1,2 +1,1 @@
-# GreetingCard
-Android dogshit app speedrun any%
+Time: n/a (0 without gradle sync lol)
